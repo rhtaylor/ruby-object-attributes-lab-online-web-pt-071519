@@ -17,4 +17,3 @@ class Person
     @job = y
   end
 end
-
