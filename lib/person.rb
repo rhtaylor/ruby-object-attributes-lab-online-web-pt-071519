@@ -1,4 +1,5 @@
 class Person
+  puts self
   def initalize(name, job)
     @name = name
     @job = job
@@ -16,3 +17,4 @@ class Person
     @job = y
   end
 end
+
